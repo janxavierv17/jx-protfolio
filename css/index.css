@@ -123,12 +123,9 @@ nav {
 }
 
 @media(min-width:2560px) {
-  .moveLeft {
-  margin-left: 700px;
-}
+
 .hero{ 
-  height: 45vh;
-  width: 100vw;
+  height: 25vh;
   display:flex;
   justify-content: center;
   align-items: center;
