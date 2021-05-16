@@ -109,7 +109,7 @@ nav {
   }
 }
 
-@media(max-width:1440px) {
+@media(min-width:1440px) {
     .moveLeft {
     margin-left: 185px;
 }
@@ -122,7 +122,7 @@ nav {
   }
 }
 
-@media(max-width:2560px) {
+@media(min-width:2560px) {
   .moveLeft {
   margin-left: 700px;
 }
